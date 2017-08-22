@@ -1,4 +1,4 @@
-How to install grpc, please read (blog:http://blog.csdn.net/code_segment/article/details/77377398)[http://blog.csdn.net/code_segment/article/details/77377398]
+How to install grpc, please read [blog:http://blog.csdn.net/code_segment/article/details/77377398](http://blog.csdn.net/code_segment/article/details/77377398)
 
 #gRPC-Go
 
