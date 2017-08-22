@@ -1,3 +1,5 @@
+How to install grpc, please read (blog:http://blog.csdn.net/code_segment/article/details/77377398)[http://blog.csdn.net/code_segment/article/details/77377398]
+
 #gRPC-Go
 
 [![Build Status](https://travis-ci.org/grpc/grpc-go.svg)](https://travis-ci.org/grpc/grpc-go) [![GoDoc](https://godoc.org/google.golang.org/grpc?status.svg)](https://godoc.org/google.golang.org/grpc)
